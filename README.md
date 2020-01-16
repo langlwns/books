@@ -1,7 +1,9 @@
 # books
 Some IT books and links
-https://www.100daysofcode.com/
-https://www.freecodecamp.org/news/2019-web-developer-roadmap/
+<p>https://www.100daysofcode.com/</p>
+<p>https://www.freecodecamp.org/news/2019-web-developer-roadmap/</p>
+
+<p>https://www.freecodecamp.org/forum/t/help-us-build-version-7-0-of-the-freecodecamp-curriculum/263546</p>
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/12/desktop-cropped.jpg">
 
 
@@ -14,6 +16,7 @@ https://www.freecodecamp.org/news/google-not-learn-not-why-searching-can-be-bett
 <p>https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/</p>
 <p>https://www.freecodecamp.org/news/developer-new-years-resolution-guide/</p>
 <p>https://www.freecodecamp.org/news/web-development-2020/</p>
+
 
 
 

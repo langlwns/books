@@ -16,85 +16,51 @@ https://www.freecodecamp.org/news/google-not-learn-not-why-searching-can-be-bett
 
 
 
-<!Doctype html>
-<html lang=ru>
-	<head>
-		<meta charset="utf-8">
-		<style type="text/css">
-				h1 {
-				font-family: Lucida Console;
-				color: darkblue; /* Цвет обычной ссылки */
-				} 
-			p{
-				font-family: Lucida Console;
-				color:green;
-			}
-			body
-			{
-				background: #CCCCFF;
-
-			};
-
-			a {
-				font-family: Lucida Console;
-				color: blue; /* Цвет обычной ссылки */
-				} 
-   
-   a:visited {
-    color: blue; /* Цвет посещенной ссылки */
-
-		</style>
-	</head>
-	<body>
-		<section>
 
 
- 	<h1> Hi, on this page we start creating welcome default page to my browser with different last links and <br> some sort of diary </h1>
- 	<button onclick="ClickTobutton">Цвет фона</button>
- 	<script type="text/javascript">
- 		function ClickTobutton(){
- 			Body.style.background-color(#FFFFFF); // something go wrong with my JS code... 
- 		}
- 	</script>
- 	<p><a href="https://gitlab.com/Sthink/backup_folder "> Link to repository on GitLab  </a></p>
- 		<h2>	<a href="https://learn.freecodecamp.org/"> Link to Freecodecamp.org</a> </h2>
- 	<p> and another simmular resourse</p>
+
+<h1> Hi, on this page we start creating welcome default page to my browser with different last links and <br> some sort of diary </h1>
+
  	
- 		<h2> <a href="https://htmlacademy.ru/courses/299/run/8"> Htmlacademy</a> </h2>
- 	<p>курс на хтмл академии там где остановился в последний раз </p>
+<p><a href="https://gitlab.com/Sthink/backup_folder "> Link to repository on GitLab  </a></p>
+ 		<h2>	<a href="https://learn.freecodecamp.org/"> Link to Freecodecamp.org</a> </h2>
+<p> and another simmular resourse</p>
+ 	
+<h2> <a href="https://htmlacademy.ru/courses/299/run/8"> Htmlacademy</a> </h2>
+<p>курс на хтмл академии там где остановился в последний раз </p>
 
-    <p><a href="https://www.youtube.com/watch?v=m3voEkMZLvA"> Канал  ADV-IT
+<p><a href="https://www.youtube.com/watch?v=m3voEkMZLvA"> Канал  ADV-IT
                                                   и видео 13.Git - Полный рабочий цикл действий Git + GitHub </a> </p>
- 		<p>
+ 		
 
- 	<p><a href="http://loveread.ec/read_book.php?id=68646&p=1:">  Задача трех тел | Автор книги - Лю Цысинь </a></p>
- 	<p><a href="http://loveread.ec/read_book.php?id=76246&p=1">  Кровь пот и пиксели---- найти и добавить ссылку, потом все ссылки что есть в хроме перекинуть и запушить на гитлаб .... </a></p>
+<p><a href="http://loveread.ec/read_book.php?id=68646&p=1:">  Задача трех тел | Автор книги - Лю Цысинь </a></p>
+<p><a href="http://loveread.ec/read_book.php?id=76246&p=1">  Кровь пот и пиксели---- найти и добавить ссылку, потом все ссылки что есть в хроме перекинуть и запушить на гитлаб .... </a></p>
 
-	<p><a href="https://twitter.com/kottans_org">  Twitter Kottan.org </a></p>
+<p><a href="https://twitter.com/kottans_org">  Twitter Kottan.org </a></p>
 
-	<p><a href="https://webref.ru/course/html-basics"> webref.ru </a></p>
+<p><a href="https://webref.ru/course/html-basics"> webref.ru </a></p>
 
-	<p><a href="http://frontendbookshelf.ru/">   Список книг по JS and HTML     </a></p>
+<p><a href="http://frontendbookshelf.ru/">   Список книг по JS and HTML     </a></p>
 
-	<p><a href="http://ptgmedia.pearsoncmg.com/images/9780321808356/samplepages/0321808355.pdf"> Bulleproff web design book </a></p>
-	<p><a href="https://forge.medium.com/youre-not-lazy-bored-or-unmotivated-35891b1f3376" title="article on site medium.com"> You’re Not Lazy, Bored, or Unmotivated
+<p><a href="http://ptgmedia.pearsoncmg.com/images/9780321808356/samplepages/0321808355.pdf"> Bulleproff web design book </a></p>
+<p><a href="https://forge.medium.com/youre-not-lazy-bored-or-unmotivated-35891b1f3376" title="article on site medium.com"> You’re Not Lazy, Bored, or Unmotivated
 And the cure for what really ails you can be found in an advertising slogan you’ve heard before </a></p>
 
-	<p><a href="https://launchschool.com/books/http/read/background"> Book about HTTP </a></p>
+<p><a href="https://launchschool.com/books/http/read/background"> Book about HTTP </a></p>
 				
-	<p><a href="https://www.youtube.com/watch?v=NiEYuzF2SNU"> Channel on youtube and stream [RU] Рабочий день в GitLab: Повелитель спиннеров </a></p>
+<p><a href="https://www.youtube.com/watch?v=NiEYuzF2SNU"> Channel on youtube and stream [RU] Рабочий день в GitLab: Повелитель спиннеров </a></p>
 
 
-	<p><a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c">
+<p><a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c">
 			Free programming books on github </a></p>
 
-	<p><a href="http://diveinto.html5doctor.com/index.html"> Book Dive into HTML5 </a></p>
+<p><a href="http://diveinto.html5doctor.com/index.html"> Book Dive into HTML5 </a></p>
 
-	<p><a href="https://hard.rozetka.com.ua/ua/philips_246e9qdsb_00/p48922382/"> Philips 23.8 IPS </a></p>
+<p><a href="https://hard.rozetka.com.ua/ua/philips_246e9qdsb_00/p48922382/"> Philips 23.8 IPS </a></p>
 			<p><a href="https://internstreet.in/learn/web-design-bootcamp">web-design-bootcamp - Learn to build professional websites using HTML & CSS. Understand the design practices like Typography, Consistency, Color Theory and Photoshop.</a></p>
 
 
-
+<p><a href="https://hard.rozetka.com.ua/ua/philips_246e9qdsb_00/p48922382/"> Philips 23.8 IPS </a></p>
 <p><a href="https://ilovecoding.org/courses/htmlcss2">ilovecoding.org/courses/htmlcss2</a></p>
 <p><a href="https://www.quora.com/What-is-the-best-way-for-a-beginner-to-learn-HTML-CSS">What-is-the-best-way-for-a-beginner-to-learn-HTML-CSS</a></p>
 
@@ -149,25 +115,19 @@ Internet Historian
 
 
 
+<p>Так-с , смысл стартовой страницы начинает прорисововаться. </p>
 
- 		<p>Так-с , смысл стартовой страницы начинает прорисововаться. </p>
-
- 		<p> Но вот оформления нет и в помине! нужно подумать над красивым дизайном. Вот например как тут
- 					<a href="https://code.visualstudio.com/docs/getstarted/tips-and-tricks"> code.visualstudio.com/docs/ 
+<p> Но вот оформления нет и в помине! нужно подумать над красивым дизайном. Вот например как тут
+ 	<a href="https://code.visualstudio.com/docs/getstarted/tips-and-tricks"> code.visualstudio.com/docs/ 
  					</p>
  		
 
+<a href="https://webpack.js.org/">или  тут  webpack.js.org </a>
+<p> и сверстать аналог.</p>
 
+ 		
+	
 
- 		 <a href="https://webpack.js.org/">или  тут  webpack.js.org </a>
-
-
- 		<p> и сверстать аналог.</p>
-
- 		</section>
-	<body>
-
-</html>
 
 
 

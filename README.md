@@ -4,6 +4,8 @@ Some IT books and links
 <p>https://www.freecodecamp.org/news/2019-web-developer-roadmap/</p>
 
 <p>https://www.freecodecamp.org/forum/t/help-us-build-version-7-0-of-the-freecodecamp-curriculum/263546</p>
+
+<p>https://roadmap.sh/frontend and https://github.com/langlwns/devmap</p>
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/12/desktop-cropped.jpg">
 
 
